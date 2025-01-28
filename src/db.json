@@ -1,0 +1,24 @@
+{
+    "cars": [
+    { "id": 1, "marca": "Toyota", "modello": "Corolla", "targa":
+    "AB123CD" },
+    { "id": 2, "marca": "Ford", "modello": "Focus", "targa": "EF456GH"
+    },
+    { "id": 3, "marca": "Tesla", "modello": "Model 3", "targa":
+    "IJ789KL" }
+    ],
+    "places": [
+    { "id": 1, "occupato": false },
+    { "id": 2, "occupato": true },
+    { "id": 3, "occupato": false },
+    { "id": 4, "occupato": true }
+    ],
+    "users": [
+    { "id": 1, "nome": "Mario", "cognome": "Rossi", "email":
+    "mario.rossi@example.com", "password": "password123" },
+    { "id": 2, "nome": "Luigi", "cognome": "Verdi", "email":
+    "luigi.verdi@example.com", "password": "mypassword" },
+    { "id": 3, "nome": "Anna", "cognome": "Bianchi", "email":
+    "anna.bianchi@example.com", "password": "securepass" }
+    ]
+    }
